@@ -1,6 +1,6 @@
-# Attrition-Rate-Prediction
+# Attrition-Alchemy: A Machine Learning Approach
 
-![](https://github.com/user-attachments/assets/db0a9c02-8cbe-47db-b149-89f2d87944cd)
+![Attrition-Alchemy](https://github.com/Rashid9226/Attrition-Alchemy/blob/main/final_app/static/css/images/image.jpeg)
 
 ## What is Attrition Rate
 
@@ -20,5 +20,10 @@ Strategic Planning: Companies can better plan for future workforce needs and ali
 # Web App
 
 ![image](https://github.com/user-attachments/assets/933eef4c-623c-4cd8-a203-6f5087dbee1c)
+
+## Follow me on Medium 
+Check out my Article of
+[Attrition-Alchemy](https://github.com/Rashid9226/Attrition-Alchemy)
+
 
 
