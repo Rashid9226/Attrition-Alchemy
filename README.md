@@ -1,6 +1,6 @@
 # Attrition-Rate-Prediction
 
-![Employee-Attrition--Meaning--Types--Reason--and-How-to-Reduce](https://github.com/user-attachments/assets/db0a9c02-8cbe-47db-b149-89f2d87944cd)
+![](https://github.com/user-attachments/assets/db0a9c02-8cbe-47db-b149-89f2d87944cd)
 
 ## What is Attrition Rate
 
