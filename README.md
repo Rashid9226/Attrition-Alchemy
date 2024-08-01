@@ -23,7 +23,7 @@ Strategic Planning: Companies can better plan for future workforce needs and ali
 
 ## Follow me on Medium 
 Check out my Article of
-[Attrition-Alchemy]([https://github.com/Rashid9226/Attrition-Alchemy](https://medium.com/@MuhammedRashid_/attrition-alchemy-a-machine-learning-approach-7b77b300f45b)
+[Attrition-Alchemy](https://medium.com/@MuhammedRashid_/attrition-alchemy-a-machine-learning-approach-7b77b300f45b)
 
 
 
