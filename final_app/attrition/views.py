@@ -4,7 +4,7 @@ import pandas as pd
 import pickle, os, random
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-MODEL_PATH = os.path.join(BASE_DIR, 'models', 'finalized_model.pickle')
+MODEL_PATH = os.path.join(BASE_DIR, 'models', 'Attrition_Alchemy.pickle')
 
 # Finding attrition rate:
 def Attrition_rate_finder(request):
